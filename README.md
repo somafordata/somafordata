@@ -25,18 +25,24 @@
 
 
 
+
+
+
+
+
+
 # <div align="center">🚀 **Welcome to the Home of Best DevOps Resources**</div>
 
 <div align="center">
   
-[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
+[![Data Engineer | Cloud | AI/ML | Data Science | NLP | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site)
 
 <img src="https://imgur.com/CvgYNnv.png" alt="aboutme" width="800px">
 
 </div>
 
 <div align="center">
-  <p><strong>Hey there!</strong> 👋 I'm a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
+  <p><strong>Hey there!</strong> 👋 I'm a passionate AI/ML Data Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
 </div>
 
 <div align="center">
